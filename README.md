@@ -2,4 +2,10 @@
 
 Default community health files for the `hybridops-tech` organization.
 
-This repository exists so public repositories in the organization inherit shared GitHub settings such as the sponsor button configuration.
+This repository exists so public repositories in the organization inherit shared GitHub settings and baseline health files such as:
+
+- sponsor button configuration
+- code of conduct
+- contributing guidance
+- support guidance
+- security reporting policy
